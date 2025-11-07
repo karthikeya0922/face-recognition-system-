@@ -1,4 +1,4 @@
----
+
 ```markdown
 # 🧠 Face Recognition Attendance System
 
@@ -118,7 +118,7 @@ Then open your browser and go to:
 ## 👨‍💻 Author
 
 **Karthikeya**
-AI & ML Enthusiast
+AI & ML Enthusiast | Flask Developer | Computer Vision Explorer
 
 ---
 
@@ -126,12 +126,15 @@ AI & ML Enthusiast
 
 This project is open-source and available under the **MIT License**.
 
-```
+````
 
 ---
 
-Just copy this whole block, paste it into your `README.md`, save, and you’re golden 🌟  
+### 💡 Then commit and push:
+```bash
+git add README.md
+git commit -m "fixed YAML parse issue in README"
+git push
+````
 
-Wanna me add some cool GitHub badges (Python version, Flask, license, etc.) at the top for a more pro look?
-```
 ---
